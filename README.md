@@ -1,2 +1,0 @@
-# KemmyO_HotelBookingOptimization
-Hotel Booking Optimization
