@@ -91,3 +91,7 @@ Based on the model's insights, the following recommendations were provided:
 
 ---
 
+## 🚀 How to Run the Project  
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/kemmy-dotcom/HotelBookingOptimization.git
